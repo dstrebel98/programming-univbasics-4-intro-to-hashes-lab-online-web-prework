@@ -9,9 +9,11 @@ resources: 1
 {0=> lambda {puts "hello world:}}
 .my_hash
 my_hash = {} # an empty hash grades = { 'Adam' => 20, 'Brent' => 15, 'Chris' => 10 }
-:Grace Hopper{'Grace Hopper'
-pioneer = {} # :name = 
+:Grace Hopper
+pioneer = {} # :name = {'Grace Hopper'}
 :id 
+id_generator = {} # :id = {2}
 .my_hash_creator
+my_hash_creator = {} # k
 .read_from_hash
 .update_counting_hash
