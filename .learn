@@ -6,7 +6,7 @@ languages:
   - ruby
 resources: 1
 .new_hash:
-new hash = {0=> lambda {puts "hello world}}
+new hash: = {0=> lambda {puts "hello world}}
 .my_hash
 my_hash = {} # an empty hash grades = { 'Adam' => 20, 'Brent' => 15, 'Chris' => 10 }
 :Grace Hopper
