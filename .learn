@@ -14,6 +14,8 @@ pioneer = {} # :name = {'Grace Hopper'}
 :id 
 id_generator = {} # :id = {2}
 .my_hash_creator
-my_hash_creator = {} # k
+my_hash_creator = {} # key = #value {4}
 .read_from_hash
+read_from_hash = {} #, #key
 .update_counting_hash
+update_counting_hash = { :apples => 3 } { :apples => 4 }
